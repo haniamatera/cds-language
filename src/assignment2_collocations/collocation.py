@@ -5,7 +5,7 @@ from pathlib import Path
 import pandas as pd
 import re 
 import numpy as np
-
+from collection import *
 
 #First of all, I am defining the parameters used; file_path, keyword, window_size
 keyword = "blue"
