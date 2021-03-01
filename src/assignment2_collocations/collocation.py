@@ -8,7 +8,7 @@ import numpy as np
 from collection import *
 
 #First of all, I am defining the parameters used; file_path, keyword, window_size
-keyword = "blue"
+keyword = "red"
 window_size = 30
 file_path = os.path.join("..","..","data","100_english_novels", "corpus")
 
